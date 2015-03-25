@@ -1,2 +1,2 @@
-# dpm
-Dependency Package Manager
+# depm
+Dependency Manager
